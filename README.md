@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Julia
 
-**Data Analyst | Data Science & AI Enthusiast | Fintech Specialist**
+**Data Analyst | Data Science & AI Enthusiast | E-commerce Specialist**
 
 ---
 
