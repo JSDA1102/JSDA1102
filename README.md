@@ -5,7 +5,7 @@
 ---
 
 - 📍 Niterói, RJ, Brazil  
-- 🎓 Data Science & AI Bootcamp @ Le Wagon (in progress)  
+- 🎓 Data Science & AI Bootcamp @ Le Wagon (complete)  
 - 📊 Technologist in Analysis and Systems Development @ IBMR (complete)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-juliaalmeida--dadoseprodutos-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/juliaalmeida-dadoseprodutos)
 
