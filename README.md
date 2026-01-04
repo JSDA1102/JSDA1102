@@ -40,10 +40,12 @@ As part of my Data Science journey, I developed an end-to-end solution to detect
 ### **Core Mastery (Advanced / 6+ Years)**
 > *My primary toolkit for solving complex data problems and driving business decisions.*
 
-![SQL](https://img.shields.io/badge/SQL-Advanced-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Power Bi](https://img.shields.io/badge/Power_BI-Senior-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-Expert-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-Expert-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![VBA](https://img.shields.io/badge/VBA-Expert-47A141?style=flat-square&logo=visual-basic&logoColor=white)
+![Power Bi](https://img.shields.io/badge/Power_BI-Expert-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Metabase](https://img.shields.io/badge/Metabase-Expert-509EE3?style=flat-square&logo=metabase&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Expert-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ### **Data Science & Engineering Stack**
 > *The modern stack I use for Machine Learning, ETL, and Automation.*
