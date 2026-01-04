@@ -1,39 +1,69 @@
 # 👋 Hi, I'm Julia
 
-**Data Analyst | Data Science & AI Enthusiast | E-commerce Specialist**
+### **Senior Data Analyst | Data Scientist & AI Enthusiast**
+*Bridging the gap between Business Strategy and Advanced Analytics.*
 
 ---
 
-- 📍 Niterói, RJ, Brazil  
-- 🎓 Data Science & AI Bootcamp @ Le Wagon (complete)  
-- 📊 Technologist in Analysis and Systems Development @ IBMR (complete)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-juliaalmeida--dadoseprodutos-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/juliaalmeida-dadoseprodutos)
+- 📍 **Location:** Niterói, RJ, Brazil
+- 🎓 **Education:** Data Science & AI Bootcamp @ Le Wagon | Technologist in Systems Analysis @ IBMR
+- 💼 **Experience:** 7+ years in Fintech & E-commerce (Stone, Pagar.me)
+- 🔗 **Connect:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/juliaalmeida-dadoseprodutos)
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-I'm a Data Analyst with a seven-year career in e-commerce and finance, dedicated to transforming data into innovative product strategies and scalable solutions. My journey from customer support to product management to data gives me a unique perspective on building for scale and tackling complex challenges.
+I am a **Senior Data Analyst** with a solid background in Product Management, pivoting into **Data Science**.
 
-Currently, I am deepening my expertise through a Data Science & AI bootcamp, blending analytical skills with creativity to deliver data-driven products.
+With a seven-year career in the challenging Brazilian Fintech market, I have specialized in transforming raw data into actionable business strategies. My technical foundation is built on **6+ years of Advanced SQL** and business intelligence, which I now combine with emerging skills in **Python and Machine Learning**.
+
+Currently, I am applying this hybrid skillset to solve complex problems, such as fraud detection and anomaly identification.
 
 ---
 
-## 🧰 Skills & Tools
+## 🦉 Featured Project: Jacurutu
 
-- **Product & Strategy:** Product Roadmap, Backlog Management (Jira), Scrum, Kanban, OKRs, A/B Testing, Data-Driven Decisions
-- **Data & Analytics:** SQL, Python, Power BI, Looker Studio, Metabase, Predictive Analysis
-- **Tech Stack:** dbt, Airflow, Fivetran, Splunk, DataDog, SQL Server (SSMS)
-- **Business Metrics:** KPIs, NPS, CSAT, LTV, CAC
-- **Languages:** Portuguese (native), English (fluent)
+> *A Machine Learning approach to audit public spending.*
+
+As part of my Data Science journey, I developed an end-to-end solution to detect anomalies in Federal Government credit card transactions.
+
+* **Tech Stack:** Python, Scikit-learn (Isolation Forest and LOF), Pandas, Streamlit.
+* **Role:** I acted as a **Junior Data Scientist**, handling the entire pipeline from ETL and Feature Engineering to Model Training and Deployment.
+
+👉 **[Check the Repository](https://github.com/JSDA1102/Projeto-Jacurutu)** | 📊 **[View the Live App](https://projeto-jacurutu.streamlit.app)**
+
+---
+
+## 🧰 Tech Stack & Skills
+
+### **Core Mastery (Advanced / 6+ Years)**
+> *My primary toolkit for solving complex data problems and driving business decisions.*
+
+![SQL](https://img.shields.io/badge/SQL-Advanced-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Power Bi](https://img.shields.io/badge/Power_BI-Senior-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Metabase](https://img.shields.io/badge/Metabase-Expert-509EE3?style=flat-square&logo=metabase&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+### **Data Science & Engineering Stack**
+> *The modern stack I use for Machine Learning, ETL, and Automation.*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### **Business & Strategy**
+`Product Strategy` `A/B Testing` `OKRs & KPIs` `Fintech Metrics` `Fraud Prevention` `Stakeholder Management`
 
 ---
 
 ## 🌱 Currently Learning
 
-- Machine Learning & Deep Learning
-- Data Engineering for scalable product analytics
-- Bridging data and product strategy
+- 🧠 **Deep Learning:** Neural Networks architectures.
+- ⚙️ **Data Engineering:** Building scalable pipelines with Airflow and dbt.
+- 🤖 **GenAI:** Leveraging LLMs for business process automation.
 
 ---
 
@@ -42,7 +72,3 @@ Currently, I am deepening my expertise through a Data Science & AI bootcamp, ble
 🛡️ Hardcore From Software games enthusiast | 💫 RPG lover | 🎲 Always ready for a D&D session!
 
 ---
-
-<!--
-**JSDA1102/JSDA1102** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
