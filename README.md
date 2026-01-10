@@ -7,7 +7,7 @@
 
 - 📍 **Location:** Niterói, RJ, Brazil
 - 🎓 **Education:** Data Science & AI Bootcamp @ Le Wagon | Technologist in Systems Analysis @ IBMR
-- 💼 **Experience:** 7+ years in Fintech & E-commerce (Stone, Pagar.me)
+- 💼 **Experience:** 7+ years in Fintech & E-commerce
 - 🔗 **Connect:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/juliaalmeida-dadoseprodutos/?locale=en_US)
 
 ---
