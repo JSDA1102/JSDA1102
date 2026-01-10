@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Julia
 
-### **Senior Data Analyst | Data Scientist & AI Enthusiast**
+### **Senior Data Analyst | Junior Data Scientist & AI Enthusiast**
 *Bridging the gap between Business Strategy and Advanced Analytics.*
 
 ---
